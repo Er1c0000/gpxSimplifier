@@ -43,6 +43,3 @@ python gpxSimplify/3_gpx2csv.py
 ## 注意事项
 - 请确保输入的 CSV 文件包含 `dataTime`、`longitude` 和 `latitude` 列，否则可能会导致转换失败。
 - 在处理 GPX 文件时，如果文件格式不符合标准，可能会出现解析错误，请检查文件内容。
-
-## 贡献
-如果你发现任何问题或有改进建议，欢迎提交 Issues 或 Pull Requests。
