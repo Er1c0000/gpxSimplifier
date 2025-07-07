@@ -46,6 +46,3 @@ python gpxSimplify/3_gpx2csv.py
 
 ## 贡献
 如果你发现任何问题或有改进建议，欢迎提交 Issues 或 Pull Requests。
-
-## 许可证
-本项目采用 [MIT 许可证](LICENSE)。
